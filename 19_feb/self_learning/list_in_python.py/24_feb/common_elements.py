@@ -1,4 +1,4 @@
-# common_elements.py
+# common_elements.pygi
 
 list1 = list(map(int, input().split()))
 list2 = list(map(int, input().split()))
